@@ -6,16 +6,16 @@
     style="border-radius: 12px; border: 1px solid #00ffe7; box-shadow: 0 0 25px rgba(0, 255, 231, 0.5);" 
   />
   <br />
-  <sub><i>// Inicialização do Sistema Cyberpunk</i></sub>
+  <sub><i>// Inicialização /i></sub>
 </p>
-<!-- Animação de digitação simples (exclusiva renderização GitHub limitada) -->
+
 <h1 align="center" style="font-family: 'Courier New', Courier, monospace; color: #00ffe7;">
   <code>João Vítor<span class="blink">|</span></code>
 </h1>
 
 <hr style="border:1px solid #111;font-weight:bold">
 
-<!-- Sobre Mim -->
+
 ##  Sobre Mim
 
 Estudante de Engenharia da Computação na Universidade São Judas Tadeu, com experiência profissional nos setores de logística, produção industrial e administrativo. 
