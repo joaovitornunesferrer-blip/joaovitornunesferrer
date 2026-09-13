@@ -42,8 +42,11 @@ Destaco-me pelo perfil analítico, facilidade de aprendizado, comprometimento, p
 
 ## Meus Contatos
 
-  Linkedin:www.linkedin.com/in/joão-vítor-861a8733b
-  Email: joaovitornunesferrer@gmail.com
+ <p>Linkedin:www.linkedin.com/in/joão-vítor-861a8733b
+ </p>
+ 
+ <p>Email: joaovitornunesferrer@gmail.com
+ </p> 
 
 ---
 
