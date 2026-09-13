@@ -13,7 +13,6 @@
   <code>João Vítor<span> </span></code>
 </h1>
 <div data-importer="techs" align="left">
-  <img file:///C:/Users/ramis/Downloads/03d5264c-11d6-4581-9843-8691d5847756.jpeg /> 
 
   <hr style="border:1px solid #111;font-weight:bold">
 
