@@ -6,7 +6,7 @@
     style="border-radius: 12px; border: 1px solid #00ffe7; box-shadow: 0 0 25px rgba(0, 255, 231, 0.5);" 
   />
   <br/>
-  <sub><i> Apresentação </i></sub>
+  <sub><i>  </i></sub>
 </p>
 
 <h1 align="center" style="font-family: 'Courier New', Courier, monospace; color: #00ffe7;">
