@@ -1,56 +1,43 @@
-<!--
-  README.md - Perfil GitHub
- -->
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Logos HTML, CSS e Python</title>
+    <link rel="stylesheet" href="style.css">
+    <!-- Font Awesome para os ícones das linguagens -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/674621/128598086-96bf1d3b-1ae5-4d33-bccc-7fb42d46b7e1.gif" alt="Inicialização - Sistema Cyberpunk" width="70%" style="border-radius:12px; box-shadow: 0 0 20px #00ffe7;" />
-</p>
+    <div class="container">
+        <!-- Card HTML -->
+        <div class="card html">
+            <div class="icon-box">
+                <i class="fa-brands fa-html5"></i>
+            </div>
+            <h2>HTML5</h2>
+            <p>Estrutura</p>
+        </div>
 
-<h1 align="center" style="font-family: 'Courier New', Courier, monospace; color: #00ffe7;">
-  <code>Olá, eu sou João Vítor<span class="blink">|</span></code>
-</h1>
+        <!-- Card CSS -->
+        <div class="card css">
+            <div class="icon-box">
+                <i class="fa-brands fa-css3-alt"></i>
+            </div>
+            <h2>CSS3</h2>
+            <p>Estilo</p>
+        </div>
 
-<hr style="border:1px solid #111;font-weight:bold">
+        <!-- Card Python -->
+        <div class="card python">
+            <div class="icon-box">
+                <i class="fa-brands fa-python"></i>
+            </div>
+            <h2>Python</h2>
+            <p>Lógica</p>
+        </div>
+    </div>
 
-##  Sobre Mim
-
-Estudante de Engenharia da Computação na Universidade São Judas Tadeu, com experiência profissional nos setores de logística, produção industrial e administrativo. 
-
-Atualmente atuo na Sesé Logística no Scania Lcb, com operações logísticas, com atividades operacionais e suporte às demandas da área, contribuindo para a eficiência e organização dos fluxos de trabalho.
-
-Anteriormente, atuei na Cie Autometal, onde desenvolvi experiência tanto na área administrativa quanto na linha de produção, realizando atividades relacionadas à organização de documentos, suporte a processos internos, acompanhamento de rotinas operacionais e apoio às atividades produtivas em ambiente industrial.
-
-Destaco-me pelo perfil analítico, facilidade de aprendizado, comprometimento, proatividade e capacidade de trabalhar em equipe para alcançar resultados e otimizar processos.
----
-
-<!-- Tech Stack -->
-##  Principais Tecnologias
-
-<p align="center">
-
-  <img alt="HTML" src="(https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />    
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />  
-  <img alt="CSS" src="https://img.shields.io/badge/CSS-F05032?style=for-the-badge&logo=css&logoColor=white" />
-</p>
-
----
-
-<!-- Ferramentas -->
-# ⚙️ Ferramentas e Plataformas
-
-<p align="center">
-   <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />  
-</p>
-
----
-
-#  Projetos Selecionados
-
-<div align="center" style="display:flex; max-width:960px; gap:1rem; flex-wrap: wrap; justify-content:center;">
-
-  <a href="https://github.com/joaovitor/project-x" target="_blank" style="padding:1rem; border-radius:12px; width:280px; background:#111; box-shadow:0 0 20px #00ffe7; text-decoration:none; color:#00ffe7; font-weight:600; transition: box-shadow 0.3s ease;">
-    <h3>Project X</h3>
-    <p style="color:#ccc; font-weight:400;">Sistema avançado de automação inteligente com integração de IA para otimização operacional.</p>
-  </a>
-
-  <a href="https://github.com/joaovitor/cyber-ui" target="_blank" style="padding:1rem
+</body>
+</html>
