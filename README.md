@@ -5,7 +5,7 @@
     width="80%" 
     style="border-radius: 12px; border: 1px solid #00ffe7; box-shadow: 0 0 25px rgba(0, 255, 231, 0.5);" 
   />
-  <br />
+  <br/>
   <sub><i> Apresentação </i></sub>
 </p>
 
