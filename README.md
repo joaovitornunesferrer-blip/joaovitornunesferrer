@@ -10,7 +10,7 @@
 </p>
 
 <h1 align="center" style="font-family: 'Courier New', Courier, monospace; color: #00ffe7;">
-  <code>João Vítor<span> class="blink"></span></code>
+  <code>João Vítor<span> </span></code>
 </h1>
 
 <hr style="border:1px solid #111;font-weight:bold">
