@@ -1,8 +1,14 @@
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/674621/128598086-96bf1d3b-1ae5-4d33-bccc-7fb42d46b7e1.gif" alt="Inicialização - Sistema Cyberpunk" width="70%" style="border-radius:12px; box-shadow: 0 0 20px #00ffe7;" />
+  <a href="#">
+    <img 
+      src="https://user-images.githubusercontent.com/674621/128598086-96bf1d3b-1ae5-4d33-bccc-7fb42d46b7e1.gif" 
+      alt="Inicialização - Sistema Cyberpunk" 
+      width="80%" 
+      style="border-radius: 12px; border: 1px solid #00ffe7; box-shadow: 0 0 25px rgba(0, 255, 231, 0.5); display: block; margin: 0 auto;" 
+    />
+  </a>
 </p>
-
 <!-- Animação de digitação simples (exclusiva renderização GitHub limitada) -->
 <h1 align="center" style="font-family: 'Courier New', Courier, monospace; color: #00ffe7;">
   <code>João Vítor<span class="blink">|</span></code>
