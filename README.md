@@ -11,17 +11,18 @@
 <hr style="border:1px solid #111;font-weight:bold">
 
 <!-- Sobre Mim -->
-## 🧑‍💻 Sobre Mim
+##  Sobre Mim
 
-Profissional com forte atuação em desenvolvimento full-stack e foco em inovação tecnológica, automação inteligente e design sofisticado inspirado em sistemas de inteligência artificial avançada e cyberpunk.
+Estudante de Engenharia da Computação na Universidade São Judas Tadeu, com experiência profissional nos setores de logística, produção industrial e administrativo. 
 
-- Experiência consolidada em arquiteturas escaláveis e seguras.
-- Compromisso com interfaces responsivas, acessíveis e intuitivas.
-- Mentalidade voltada para resolução de problemas através de tecnologia de ponta.
+Atualmente atuo na Sesé Logística no Scania Lcb, com operações logísticas, com atividades operacionais e suporte às demandas da área, contribuindo para a eficiência e organização dos fluxos de trabalho.
 
+Anteriormente, atuei na Cie Autometal, onde desenvolvi experiência tanto na área administrativa quanto na linha de produção, realizando atividades relacionadas à organização de documentos, suporte a processos internos, acompanhamento de rotinas operacionais e apoio às atividades produtivas em ambiente industrial.
+
+Destaco-me pelo perfil analítico, facilidade de aprendizado, comprometimento, proatividade e capacidade de trabalhar em equipe para alcançar resultados e otimizar processos.
 ---
 
-<!-- Tech Stack -->
+
 ##  Principais Linguagens
 
 <p align="center">
@@ -39,6 +40,10 @@ Profissional com forte atuação em desenvolvimento full-stack e foco em inovaç
   <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />  
 </p>
 
+## Meus Contatos
+
+  Linkedin:www.linkedin.com/in/joão-vítor-861a8733b
+  Email: joaovitornunesferrer@gmail.com
 
 ---
 
