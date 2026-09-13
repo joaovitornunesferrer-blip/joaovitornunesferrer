@@ -30,7 +30,7 @@ Destaco-me pelo perfil analítico, facilidade de aprendizado, comprometimento, p
 
   <img alt="TypeScript" src="https://img.shields.io/badge/HTML-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />    
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />  
-  <img alt="CSS" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img alt="CSS" src="https://img.shields.io/badge/CSS-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ---
