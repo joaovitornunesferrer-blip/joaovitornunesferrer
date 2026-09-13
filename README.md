@@ -43,6 +43,7 @@ Destaco-me pelo perfil analítico, facilidade de aprendizado, comprometimento, p
 
 <p align="center">
   <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />  
+  <img alt="Gemini" src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
 </p>
 
 ## Meus Contatos
