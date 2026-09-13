@@ -28,7 +28,7 @@ Destaco-me pelo perfil analítico, facilidade de aprendizado, comprometimento, p
 
 <p align="center">
 
-  <img alt="HTML" src="https://img.shields.io/badge/HTML-3178C6?style=for-the-badge&logo=html&logoColor=white" />    
+  <img alt="HTML" src="(https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />    
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />  
   <img alt="CSS" src="https://img.shields.io/badge/CSS-F05032?style=for-the-badge&logo=css&logoColor=white" />
 </p>
